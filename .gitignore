@@ -1,0 +1,9 @@
+# Сборка и IDE
+backend/target/
+.idea/
+*.iml
+.DS_Store
+
+# Логи и временные файлы
+*.log
+*.tmp
